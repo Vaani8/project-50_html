@@ -1,0 +1,42 @@
+h1{
+    color:rgb(252, 122, 0);
+    border:solid
+}
+
+.header{
+    
+    display:flex;
+    justify-content:space-between
+}
+
+.menu{
+  
+    display:flex;
+    justify-content:space-between
+}
+
+.bodyimg1{
+
+    display:flex;
+    justify-content:space-between
+}
+
+.bodyimg2{
+
+    display:flex;
+    justify-content:space-between
+}
+
+.center{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+}
+
+h4{
+    text-align:center;
+}
+
+h5{
+    text-align:center;
+}
